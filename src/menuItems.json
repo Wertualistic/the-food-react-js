@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "content": "All",
+    "class": ""
+  },
+  {
+    "id": 2,
+    "content": "Cold Dishes",
+    "class": ""
+  },
+  {
+    "id": 3,
+    "content": "Soup",
+    "class": ""
+  },
+  {
+    "id": 4,
+    "content": "Grill",
+    "class": ""
+  },
+  {
+    "id": 5,
+    "content": "Appetizer",
+    "class": ""
+  },
+  {
+    "id": 6,
+    "content": "Dessert",
+    "class": ""
+  }
+]
